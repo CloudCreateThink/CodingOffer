@@ -440,6 +440,7 @@ SSP就是super special offer，简单来说，比SP更好。
 ## 十一 校招资料集合
 
 - 学习交流群：进行计算机知识分享和交流，提供内推机会，QQ群号：325280438
+- ![夏沫学习交流群](https://img-blog.csdnimg.cn/1872d4fddd534b75ae8627d1606097ed.png)
 - github地址：github优质项目，点点follow和star，地址：https://github.com/qilide/
 - 计算机网络八股：https://blog.csdn.net/weixin_53795646/article/details/129458841 https://blog.csdn.net/weixin_53795646/article/details/129473757
 - 操作系统八股：https://blog.csdn.net/weixin_53795646/article/details/129540908
